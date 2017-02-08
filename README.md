@@ -1,9 +1,9 @@
 # rpiPiCam board control script
 
 ##### Aim of this script is to control the rpiPiCam board to send messages on the PiCam network.
-The expansion board is for raspberry pi mainboard and allows to use the [PiCam network](http://PiCam.com)
+The expansion board is for raspberry pi mainboard and allows to use the [VPS](http://hoverhuang.com)
 
-You can purchase the board on [YADOM.FR](http://yadom.fr/carte-rpiPiCam.html).
+You can purchase the board on [Element14](http://sg.element14.com/buy-raspberry-pi?ICID=I-HP-PP-raspberrypi-bundle-boards-01).
 
 Two python scripts are provided :
 
